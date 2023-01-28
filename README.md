@@ -55,7 +55,6 @@ $ ./RTSPtoWebRTC
 http://127.0.0.1:8888
 ```
 
-
 ---
 
 ![RTSPtoWebRTC](./webrtc_02.gif)
@@ -136,7 +135,7 @@ format:
 
 ## Limitations
 
-Video Codecs Supported: H264
+Video Codecs Supported: H264 codec
 
 Audio Codecs Supported: pcm alaw and pcm mulaw 
 
