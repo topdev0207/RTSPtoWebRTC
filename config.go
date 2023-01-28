@@ -13,6 +13,7 @@ import (
 )
 
 //Config global
+//Config global
 var Config = loadConfig()
 
 //ConfigST struct
